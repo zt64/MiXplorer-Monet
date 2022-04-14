@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiXplorer Monet</string>
+    <string name="generate_dark_theme">Generate dark theme</string>
+    <string name="palette">Palette</string>
+    <string name="light_mode">Light mode</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="generate_light_theme">Generate light theme</string>
+</resources>
